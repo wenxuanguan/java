@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PDMPlugin">
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" value="E:\Spark\scala\sbt\sbt\bin\sbt-launch-0.13.0.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:\Program Files\Java\jdk1.7.0_65" />
+    <option name="vmParameters" value="-XX:MaxPermSize=384M -Dsbt.ivy.home=D:/Documents and Settings/.ivy2 -Dsbt.repository.config=D:/Documents and Settings/.sbt/repositories" />
+  </component>
+</project>
